@@ -1,0 +1,16 @@
+react
+react-dom
+vite
+typescript
+@types/react
+@types/react-dom
+@vitejs/plugin-react
+tailwindcss
+postcss
+autoprefixer
+clsx
+@radix-ui/react-icons
+@radix-ui/react-slot
+class-variance-authority
+tailwind-variants
+lucide-react
